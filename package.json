@@ -1,0 +1,20 @@
+{
+  "name": "business-card-2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "logic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cow": "cowsay siemanko"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {
+    "cowsay": "^1.5.0",
+    "parcel": "^2.10.3"
+  }
+}
